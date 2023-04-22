@@ -1,2 +1,2 @@
 # python-
-简单的python爬虫使用
+简单的python-django框架的使用
